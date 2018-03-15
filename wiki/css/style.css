@@ -1,3 +1,7 @@
 .col-md-5{
   padding-top: 30px;
 }
+#nav{
+  max-width: 180px;
+  float: left;
+}
